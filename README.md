@@ -17,7 +17,7 @@ The application provides basic student management functionality:
 
 ## 🏗️ Architecture Diagram
 
-![Architecture Diagram](<images\3-tier-web-app-gcp (3).jpg>)
+![Architecture Diagram](<images/3-tier-web-app-gcp (3).jpg>)
 
 ## 📦 Backend Setup
 
@@ -121,7 +121,7 @@ While deploying the backend:
 >
 > - App is running on port `3500`
 > - DB connection is successful
->   ![Logs-backend](images\image.png)
+>   ![Logs-backend](images/image.png)
 
 ### 7. MySQL Connectivity Notes (Optional Fixes)
 
@@ -184,8 +184,8 @@ While deploying:
 
 ## Screenshots of Application
 
-![/form](images\image-1.png)
-![/list](images\image-2.png)
+![/form](images/image-1.png)
+![/list](images/image-2.png)
 
 ## 🧾 Summary
 
